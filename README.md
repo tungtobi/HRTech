@@ -1,2 +1,0 @@
-# HRTech
-document of HRTech
